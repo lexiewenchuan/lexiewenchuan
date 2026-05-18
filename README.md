@@ -1,56 +1,43 @@
 <div align="center">
 
-# lexiewenchuan
+# 你好，我是川川（lexiewenchuan）
+
+我会把自己的想法做成能直接打开、能实际演示的项目。
+
+现在主要在做前后端一体的小产品、交互型页面和一些偏工具类项目。
+
 </div>
 
 ---
 
+## 项目
 
-### 1. [CCOfferHub](https://github.com/lexiewenchuan/ccofferhub)
-**校招岗位聚合 + 简历生成 + 投递追踪的全栈作品集项目**
+### [CCOfferHub](https://github.com/lexiewenchuan/ccofferhub)
+岗位聚合、简历编辑和投递追踪的一体化项目。
 
-- 面向校招 / 实习场景的招聘信息聚合平台
-- 包含岗位浏览、收藏、投递进度管理、简历编辑与 PDF 导出
-- 技术栈：React + TypeScript + Vite + FastAPI + SQLite
+### [钏钏选标器](https://github.com/lexiewenchuan/chuansuan-selector)
+把股票、黄金、BTC、山寨币放进同一套分析和自选跟踪体验里的工具型项目。
 
-### 2. [钏钏选标器](https://github.com/lexiewenchuan/chuansuan-selector)
-**多资产选标与自选跟踪工具：股票、黄金、BTC、山寨币统一分析体验**
+### [Luban](https://github.com/lexiewenchuan/luban)
+我做的一个模块化 CLI Agent 框架，包含工具调用、记忆、子 Agent、插件和 tracing。
 
-- 统一股票 / 黄金 / BTC / 山寨币的分析入口
-- 支持用户系统、风险评估门控、自选组合跟踪、OCR 导入
-- 技术栈：HTML + JavaScript + FastAPI + SQLite
+### [Bloodclone](https://github.com/lexiewenchuan/bloodclone)
+一个围绕血染钟楼主持流程做的辅助工具，主要处理角色分配、流程推进和状态管理。
 
-### 3. [Luban](https://github.com/lexiewenchuan/luban)
-**模块化 CLI Agent 框架：工具调用、记忆、子 Agent、插件与 tracing**
-
-- 一个偏工程化的 CLI Agent 框架项目
-- 重点展示工具系统、模块化设计、记忆与子 Agent 架构
-- 技术栈：Python
-
-### 4. [Bloodclone](https://github.com/lexiewenchuan/bloodclone)
-**血染钟楼说书人辅助工具：角色分配、夜晚流程、投票与状态管理**
-
-- 围绕桌游主持场景设计的辅助工具
-- 重点体现交互组织、状态管理与前端产品表达
-- 技术栈：React + TypeScript + Vite
+### [颜小研](https://github.com/lexiewenchuan/yanxiaoyan)
+一个轻医美方向的移动端高保真交互稿，重点是从 AI 检测、医生匹配到复诊留存的完整链路设计。
 
 ---
 
-## 我关注的方向
+## 我现在在做的方向
 
-- 全栈 Web 开发
-- 可视化交互体验
-- AI Agent / 工具型产品
-- 从想法到部署上线
-
-## GitHub 主页目标
-
-这个账号会持续更新成一个更完整的作品集主页：
-
-- 持续把零散练习整理成能展示能力的完整项目
+- 全栈 Web 项目
+- 交互型页面和展示型项目
+- 工具类产品
+- AI Agent 相关尝试
 
 ---
 
-## 联系 / 状态
+## GitHub
 
 - GitHub: [@lexiewenchuan](https://github.com/lexiewenchuan)
