@@ -1,7 +1,6 @@
 <div align="center">
 
-# 你好，我是川川（lexiewenchuan）
-
+# lexiewenchuan
 </div>
 
 ---
