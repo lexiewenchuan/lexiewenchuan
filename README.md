@@ -1,10 +1,9 @@
 <div align="center">
 
-# 你好，我是川川（lexiewenchuan）
+lexiewenchuan
 
-我会把自己的想法做成能直接打开、能实际演示的项目。
+idea的具象化
 
-现在主要在做前后端一体的小产品、交互型页面和一些偏工具类项目。
 
 </div>
 
